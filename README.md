@@ -6,3 +6,4 @@
 ## Skills
 - Programming languages: Rust; Python; Java; C
 - Typesetting languages: LaTeX; Markdown
+- OS: Mainly Arch
