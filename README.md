@@ -1,9 +1,11 @@
-## Elliott Fournier-Robert
+# Elliott Fournier-Robert
+
 ***Bachelor of software engineering student***
 
 École de technologie supérieure
 
 ## Skills
+
 - Programming languages: Rust; Python; Java; C
 - Typesetting languages: LaTeX; Markdown
-- OS: Mainly Arch
+- OS: I use Arch btw
