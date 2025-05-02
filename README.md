@@ -6,6 +6,6 @@
 
 ## Skills
 
-- Programming languages: Rust; Python; Java; C
+- Programming languages: Rust; Python; Go; Java; C
 - Typesetting languages: LaTeX; Markdown
 - OS: I use Arch btw
