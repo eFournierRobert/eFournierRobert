@@ -1,15 +1,1 @@
-# Elliott Fournier-Robert
-
-***Software engineering student***
-
-École de technologie supérieure
-
-## Skills
-
-- Programming languages: Rust; C; Python; Java
-- Typesetting languages: LaTeX; Markdown
-- OS: Linux, Windows and maybe something from the BSD family soon??
-
-## Currently working on
-
-- Snowshell
+![eFournierRobert's Stats](https://github-readme-stats.vercel.app/api?username=eFournierRobert&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true) ![eFournierRobert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eFournierRobert&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
