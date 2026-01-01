@@ -8,3 +8,7 @@ Programming Languages: C, Go, Rust, Python, Java
 
 ## Currently working on
 - October Linux
+
+## Currently learning about
+- Linux
+- Kernel theory
