@@ -1,10 +1,10 @@
-## Elliott Fournier-Robert
+# Elliott Fournier-Robert
 ***Software engineering student***
 
 École de technologie supérieure
 
-### Skills
+## Skills
 Programming Languages: C, Go, Rust, Python, Java
 
-### Currently working on
+## Currently working on
 - October Linux
