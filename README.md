@@ -1,1 +1,10 @@
-![eFournierRobert's Stats](https://github-readme-stats.vercel.app/api?username=eFournierRobert&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true) ![eFournierRobert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eFournierRobert&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+## Elliott Fournier-Robert
+***Software engineering student***
+
+École de technologie supérieure
+
+### Skills
+Programming Languages: C, Go, Rust, Python, Java
+
+### Currently working on
+- October Linux
