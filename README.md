@@ -11,3 +11,4 @@ Programming Languages: C, Go, Rust, Python, Java
 
 ## Currently learning about
 - Linux
+- Yocto
